@@ -8,7 +8,7 @@ Kubernetes cluster with Kuadrant installed.
 
 ### Create Gateway
 Create a `Gateway` resource for this guide:
-
+   
 ```sh
 kubectl apply -f -<<EOF
 apiVersion: gateway.networking.k8s.io/v1
